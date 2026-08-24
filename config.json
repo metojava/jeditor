@@ -1,0 +1,44 @@
+{
+  "editor": {
+    "font_family": "Consolas",
+    "font_size": 13,
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "caret_color": "#000000",
+    "selection_bg": "#ADD6FF",
+    "selection_fg": "#000000",
+    "line_numbers_bg": "#F5F5F5",
+    "line_numbers_fg": "#A0A0A0"
+  },
+  "syntax": {
+    "keyword": "#A86CB8",
+    "string": "#6A9F5A",
+    "char": "#6A9F5A",
+    "comment": "#A0A0A0",
+    "annotation": "#B8B82E",
+    "number": "#5B9FC7",
+    "type": "#5BBFA0"
+  },
+  "ui": {
+    "bg": "#F5F0E0",
+    "fg": "#3A3A3A",
+    "input_bg": "#FFFFFF",
+    "input_fg": "#2E2E2E",
+    "button_bg": "#8FBC8F",
+    "button_fg": "#FFFFFF",
+    "tab_bg": "#E8E0CE",
+    "tab_active_bg": "#FDF6E3",
+    "tab_fg": "#6A6A6A",
+    "tab_active_fg": "#2E2E2E",
+    "output_bg": "#FDF6E3",
+    "output_fg": "#4A5A4A",
+    "explorer_bg": "#EDE8D8",
+    "explorer_fg": "#3A3A3A"
+  },
+  "general": {
+    "tab_size": 4,
+    "show_line_numbers": true,
+    "wrap_text": false,
+    "auto_save": false
+  }
+}
